@@ -1,4 +1,4 @@
-# Comment_Uncertainty_Complexity
+# These are codes of the project: Scientific commentaries are dealing with uncertainty and complexity in science
 - Descriptive Analysis.ipynb
   - descriptive analysis of PubMed commented-commenting data
 - 0_Mesh_info.ipynb
